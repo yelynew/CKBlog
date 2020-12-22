@@ -2,7 +2,7 @@
 title : "first posts"
 categories : 
     - "jekyll"
-    - "minimal-mstakes"
+    - "minimal-mistakes"
 tags:
     - "Cloud?Kloud!"
     - "cloud"
